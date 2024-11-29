@@ -1,4 +1,8 @@
 {
+  "type": "module",
+  "scripts": {
+    "dev": "node main.js"
+  },
   "dependencies": {
     "assert": "^2.1.0",
     "selenium-webdriver": "^4.27.0"
